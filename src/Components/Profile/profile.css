@@ -1,0 +1,16 @@
+.user-section {
+    text-align: center;
+}
+
+.title-user {
+    font-size: 18px;
+    font-weight: 700;
+    color: #3F4257;
+    margin-top: 15px;
+}
+
+
+.desc-user {
+    font-size: 14px;
+    color: #888da8;
+}

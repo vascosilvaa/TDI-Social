@@ -1,0 +1,49 @@
+.body-modal {
+    display: flex;
+}
+
+.post-form {
+    width: 100%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.post-form-input {
+    border:0;
+    background: white;
+    font-size: 14px;
+    color: #888da8;
+    box-shadow: none;
+    border-radius: 6px;
+    border:1px solid #f0f0f0;
+}
+
+.post-desc-input {
+    width: 100%;
+    background: white;
+    font-size: 14px;
+    color: #888da8;
+    box-shadow: none;
+    border:0;
+    border-radius: 6px;
+    border:1px solid #f0f0f0;
+    max-width: 100%;
+}
+
+.post-desc {
+    width: 100%;
+}
+
+.buttons-input {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.buttons-input button {
+    margin-left: 5px;
+}
+
+select, option { 
+    min-width: 150px; 
+}

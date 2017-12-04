@@ -1,0 +1,14 @@
+.no-results {
+    text-align: center;
+    width: 100%;
+    padding: 15px;
+   /* background: white; */
+    color: #888da8;
+    font-size: 14px;
+
+}
+
+.no-results span {
+    font-size: 20px;
+    padding: 10px;
+}

@@ -1,0 +1,15 @@
+.fab {
+    position: fixed;
+    bottom:0;
+    right:0;
+    margin: 25px;
+    border-radius: 50px;
+    background: #FF5E3A;
+    color: white;
+    cursor: pointer;
+}
+
+
+.fab span {
+    padding: 20px;
+}
